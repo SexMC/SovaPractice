@@ -1,0 +1,18 @@
+---
+ranks:
+  Default:
+    display: Default
+    id: 0
+    color: '&7'
+    format: '&7%player-name%&7: %message%'
+    permissions: []
+    inheritance: []
+  Owner:
+    display: Owner
+    id: 1
+    color: '&4'
+    format: '&4%player-name%&4: %message%'
+    permissions:
+    - sova.command.rank
+    inheritance:
+    - Default

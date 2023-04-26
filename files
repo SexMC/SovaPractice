@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bloom Host</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+<meta name="csrf-token" content="sjAjOYkpgY9CtIHPkRuG4L6L2u8QN69iSiuujriH">
+<meta name="robots" content="noindex">
+<link rel="apple-touch-icon" sizes="180x180" href="https://bloom.host/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="https://bloom.host/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://bloom.host/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="mask-icon" href="https://bloom.host/favicon/safari-pinned-tab.svg" color="#000000">
+<link rel="shortcut icon" href="https://bloom.host/favicon/favicon.ico">
+<script>
+                    window.SiteConfiguration = {"name":"Bloom Host","locale":"en","recaptcha":{"enabled":true,"siteKey":"6Lcq43QcAAAAAGiYFrbJYdU7sQWWIsbfI01z_CVC"},"credentials":{"username":"","password":""}};
+                </script>
+<style>
+            @import  url('//fonts.googleapis.com/css?family=Rubik:300,400,500&display=swap');
+            @import  url('//fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital@0;1&family=IBM+Plex+Sans:wght@500&display=swap');
+        </style>
+</head>
+<body class="bg-neutral-800">
+<div id="modal-portal"></div>
+<div id="app"></div>
+<script src="/assets/bundle.06be9273.js" crossorigin="anonymous"></script>
+<script type="application/javascript">
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker
+                .register('/fake-sw.js');
+        }
+    </script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'79f281cf0fec6dc7',m:'yWxV5oRRnMdwp99zHxX9P4dJ7cWWidH16wu8QRtEWrc-1677349772-0-AVBIZcWn+bD1svcR/pJnyIKK50dE5LMMf3xh2XSkjT5cafefW11OLRvapQIGiGJwSAIiKDoW+TECl7029FlJiljDlTnEgnAyJ30DaKegm/ybp+odq9j6tz0PdgrW0GED9xr1C260qHUMEAWuzw8Lmqo=',s:[0xb76cba8ec8,0xe3e1b39c15],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"79f281cf0fec6dc7","token":"86f9c37542c34f3ebe64fe36e4537e3a","version":"2023.2.0","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>

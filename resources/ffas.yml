@@ -1,0 +1,10 @@
+---
+ffas:
+  NoDebuff:
+    form:
+      icon: "textures/items/potion_bottle_splash_heal"
+    other:
+      world: "Spawn"
+      kit: "NoDebuff"
+      max: 35
+...

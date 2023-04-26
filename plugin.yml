@@ -1,0 +1,18 @@
+---
+name: Sova
+main: sova\Loader
+
+version: 0.0.1
+api: 4.0.0
+description: "A Custom Practice Core for Sova"
+
+authors:
+  - ChaqsXP
+
+permissions:
+  sova.command.rank:
+    default: op
+    description: "Allows you to use the /rank command"
+  sova.command.vanish:
+    default: op
+    description: "Allows you to use the /vanish command"

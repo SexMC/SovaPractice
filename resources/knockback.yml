@@ -1,0 +1,8 @@
+kits:
+  NoDebuff:
+    horizontal: 0.5
+    vertical: 0.5
+    maxKB: 0.5
+    heightLimitKB: 0.5
+    criticals: false                                                                                                              1
+    heightLimiter: false

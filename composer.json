@@ -1,0 +1,19 @@
+																																																																																															{
+	"require-dev": {
+		"phpstan/phpstan": "^1.9"
+	},
+	"require": {
+		"friendsofphp/php-cs-fixer": "^3.13",
+      "ext-gd": "*"
+	},
+	"autoload": {
+		"psr-4": {
+			"": [
+				"src"
+			]
+		}
+	},
+	"scripts": {
+		"phpstan": "vendor/bin/phpstan"
+	}
+}

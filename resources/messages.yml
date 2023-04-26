@@ -1,0 +1,19 @@
+player.connect: "&r&7Welcome to Sova."
+item.lobby.ffa: "&r&5FFA &r&7(Right-Click)"
+
+forms.arena.button: "&r&5%arena%\n &r&7Playing: %players%/%max%"
+join-message: "&r&a[+] %player%"
+quit-message: "&r&c[-] %player%"
+info-message: "&r&d&lSova Practice\n&r&7Stay up to date with &o&7everything &r&7that &r&7Sova has to offer by joining our discord.\n&r&d&ldiscord.gg/sovamc"
+#TextFormat::BOLD . TextFormat::DARK_GRAY . "»" . TextFormat::RESET . TextFormat::GREEN . " %killer%" . TextFormat::DARK_GREEN . "[%killer_pots%] " . TextFormat::GRAY . "killed" . TextFormat::RED . " %victim%" . TextFormat::DARK_RED . "[%victim_pots%]",
+arena.nodebuff.death: "&r&8» &r&a%killer%&r&3[%killer_pots%] &r&7killed &r&c%victim%&r&4[%victim_pots%]"
+
+rank.command.success: "&r&aYou have successfully set %player%'s rank to %rank%."
+rank.command.invalid: "&r&cInvalid rank."
+rank.command.invalid-player: "&r&cInvalid player."
+rank.command.rank.page.header: "&r&5Page %page% of %max_page%"
+rank.command.rank.page.entry: "&r&5%rank% &d(id=%id%) \n &r&dInherits:\n"
+rank.command.rank.page.inheritance: "&r&7- %rank%\n"
+
+rekit.command.success: "&r&aYou have successfully replenished your kit."
+command.ping: "&r&5&lMS: &r&f%ping%"
